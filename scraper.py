@@ -46,8 +46,8 @@ facebook_https_prefix = "https://"
 
 CHROMEDRIVER_BINARIES_FOLDER = "bin"
 
-# display = Display(visible=0, size=(800, 600))
-# display.start()
+display = Display(visible=0, size=(800, 600))
+display.start()
 
 # -------------------------------------------------------------
 # -------------------------------------------------------------
